@@ -1,4 +1,34 @@
 # python_assignment
+
+git and github:
+
+Git is a distributed version control system that allows users to keep track of changes made to their code over time. It was developed by Linus Torvalds in 2005 to manage the development of the Linux kernel. Git is free and open-source, making it a popular choice for both personal and commercial projects.
+
+Git uses a decentralized approach to version control, which means that each user has a local copy of the entire repository, including its complete history. This allows users to work offline and makes collaboration easier, as each user can make changes to their local copy of the code without affecting the code on the remote repository until they choose to push their changes.
+
+GitHub is a web-based platform that provides a hosting service for Git repositories. It was launched in 2008 and quickly became one of the most popular platforms for open-source projects. GitHub provides a range of features that make it easier for developers to collaborate and manage their code, including pull requests, issue tracking, and code reviews.
+
+Some of the key features of GitHub include:
+1.Repository Hosting: GitHub provides hosting for Git repositories, making it easy for developers to store and manage their code online. Users can create public or private repositories, depending on their needs.
+
+2.Pull Requests: GitHub makes it easy for developers to collaborate on code changes by allowing them to create pull requests. Pull requests are a way for developers to propose changes to a repository and get feedback from other users.
+
+3.Issue Tracking: GitHub provides a built-in issue tracking system that allows developers to track bugs, feature requests, and other issues related to their code. Users can create issues, assign them to team members, and track their progress.
+
+4.Code Reviews: GitHub makes it easy for developers to review each other's code before it is merged into the main repository. This helps ensure that code is of high quality and free of bugs.
+
+5.Integrations: GitHub integrates with a range of other tools and services, including continuous integration and deployment tools, chat platforms, and project management tools.
+
+6.Community: GitHub has a large and active community of developers who share code, collaborate on projects, and provide support to each other. This community is one of the key strengths of GitHub, and it has helped make the platform one of the most popular places for open-source development.
+
+In addition to these features, GitHub also provides a range of tools for managing and organizing code, including code search, code hosting, and code sharing. It also offers various pricing plans, including free plans for personal and small team projects, and paid plans for larger teams and enterprises.
+
+Overall, Git and GitHub are powerful tools for managing code and collaborating with other developers. They have become essential for software development and have helped to facilitate the growth of open-source software.
+
+
+                         **************************************************************************************************************
+
+
 1.arithmetic operators in python:
     a. The first two lines use the input() function to prompt the user to enter the values of a and b. The int() function is used to          convert the input string to an integer.
     b.The next few lines use the arithmetic operators to perform the following operations on a and b:
@@ -53,32 +83,4 @@
     This program defines a function called swap that takes in two arguments a and b. It then swaps the values of a and b using a temporary variable c. The function returns a and b with their values swapped.
 
 The program then prompts the user to enter two values a and b, and prints them out before swapping. It calls the swap function to swap the values of a and b, and then prints out the swapped values.
-
-
-
-what is git and github:
-
-Git is a version control system that allows developers to track changes in their code and collaborate with others. It was created by Linus Torvalds in 2005 and is widely used in the software development industry.
-
-GitHub is a web-based platform that provides hosting for Git repositories. It allows developers to store, manage, and share their code with others. It also provides tools for issue tracking, code review, and project management. GitHub has become a popular platform for open source projects and is used by millions of developers around the world.
-
-
-
-
-   
-    
-
-     
-
-
-
-
-
-
-
-
-
-
-   
-
 
